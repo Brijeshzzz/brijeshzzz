@@ -1,67 +1,20 @@
 name: Generate GitHub Metrics
-
 on:
-  schedule:
-    # every 12 hours
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      id-token: write
-      issues: read
-      pull-requests: read
     steps:
-      - name: Run lowlighter/metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          # secrets.METRICS_TOKEN must exist in your profile repo
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Which top-level blocks to include (order matters)
+          user: brijeshzzz
+          template: classic
           base: header, activity, community, repositories, metadata
 
-          # Plugins
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: html, css
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
-          plugin_lines: yes
-          plugin_isocalendar: yes
-          plugin_habits: yes
-          plugin_habits_from: 200
-
-          plugin_stars: yes
-          plugin_contrib_calendar: yes
-          plugin_contrib_calendar_3d: yes
-
-          plugin_pagespeed: yes
-          # Optional: to enable PageSpeed plugin, add a secret named PAGESPEED_KEY
-          # and set plugin_pagespeed_key: ${{ secrets.PAGESPEED_KEY }} below if required by the plugin.
-          # plugin_pagespeed_key: ${{ secrets.PAGESPEED_KEY }}
-
-          plugin_suggested_tracks: yes
-          plugin_suggested_tracks_provider: apple
-
-          # Visuals & layout tweaks
-          theme: dark
-          card_padding: 28
-          font_family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial
-
-          # Output name
-          output: metrics.svg
-
-      - name: Commit generated SVG to repo (optional)
-        if: always()
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore(metrics): update metrics.svg"
-          file_pattern: metrics.svg
-          branch: main
-          # If your default branch is not main, change the branch value above.
+          plugin_languages_sections: recently-used
+          plugin_topics: yes
+          plugin_topics_limit: 10

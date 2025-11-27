@@ -1,8 +1,7 @@
 # Hi 👋 I'm brijeshzzzz
 
-> Personalized profile — with GIF instead of GitHub metrics.
+<img src="https://i.pinimg.com/originals/86/4b/fc/864bfc9142bcd919f33f3b7800e6c192.gif" width="100%">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%">
 
 ---
 

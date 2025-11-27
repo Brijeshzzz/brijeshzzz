@@ -1,15 +1,18 @@
-# Hey there! 👋 I'm Brijeshzzzz
+# Hey there! I'm Brijesh
 
-> Just a tech nerd ☕💻 turning ideas into code and caffeine into features 😎
+> Just a tech nerd turning ideas into code and caffeine into features 
 
 ---
 
+<img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/864bfc9142bcd919f33f3b7800e6c1-unscreen.gif" width="30%"><img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/From-KlickPin-CF-3D-Animation--unscreen.gif" width="40%">
+
+
 ## About Me
 
-- Full-time code wizard, part-time Linux explorer 🐧  
-- Obsessed with building cool stuff — from AI bots 🤖 to slick web apps 🌐  
-- Love hacking, learning, and sharing new tricks 🚀  
-- Big fan of clean code, automation, and coffee-fueled late-night coding sessions ☕💡  
+- Full-time code wizard, part-time Linux explorer  
+- Obsessed with building cool stuff — from AI bots  to slick web apps 
+- Love hacking, learning, and sharing new tricks   
+- Big fan of clean code, automation, and coffee-fueled late-night coding sessions   
 - Always down for collabs or just geekin’ out over tech  
 
 ---
@@ -24,28 +27,20 @@
 
 ## Projects I’m Proud Of
 
-- 🤖 AI Bots & automation projects that actually save time  
-- 🌐 Web apps & dashboards — clean, responsive, and scalable  
-- 🌍 Open source contributions — because sharing is caring  
-
----
-
-## GitHub Vibes
-
-![Brijesh's GitHub stats](https://github.com/brijeshzzzz/github-readme-stats/blob/main/generated-stats.svg)  
-
+-  AI Bots & automation projects that actually save time  
+-  Web apps & dashboards — clean, responsive, and scalable  
+-  Open source contributions — because sharing is caring  
 ---
 
 ## Fun Facts About Me
 
 - Big believer in **“Code, Learn, Share, Repeat”**  
-- Always curious, always experimenting, never bored 😏  
+- Always curious, always experimenting, never bored  
 - Coffee is life, debugging is therapy  
 
 ---
 
 ## Let’s Connect
 
-- LinkedIn: [linkedin.com/in/brijeshzzzz](https://linkedin.com)  
-- Twitter: [@brijeshzzzz](https://twitter.com)  
-- Portfolio: [brijeshzzzz.dev](https://brijeshzzzz.dev)
+- LinkedIn: [linkedin.com/in/brijeshzzzz](https://linkedin.com) 
+- Portfolio: [brijeshzzzz.dev](https://brijeshbabuk.vercel.app/)

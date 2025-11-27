@@ -2,7 +2,7 @@
 
 > Personalized GitHub metrics dashboard — auto-generated.
 
-![Metrics](https://raw.githubusercontent.com/brijeshzzzz/brijeshzzzz/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/brijeshzzzz/brijeshzzzz/main/metrics.svg?update=1)
 
 ---
 

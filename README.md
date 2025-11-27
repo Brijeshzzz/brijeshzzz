@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/864bfc9142bcd919f33f3b7800e6c1-unscreen.gif" width="30%"><img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/From-KlickPin-CF-3D-Animation--unscreen.gif" width="40%"><img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/From-3751202dc5bb966c6b9c45f94dd153-unscreen.gif" width="10%">
+<img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/864bfc9142bcd919f33f3b7800e6c1-unscreen.gif" width="30%"><img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/From-KlickPin-CF-3D-Animation--unscreen.gif" width="40%"><img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/3751202dc5bb966c6b9c45f94dd153-unscreen.gif" width="100%">
 
 
 ## About Me

@@ -1,6 +1,6 @@
 # Hi 👋 I'm brijeshzzzz
 
-<img src="https://raw.githubusercontent.com/brijeshzzzz/repo/main/864bfc9142bcd919f33f3b7800e6c1-unscreen.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Brijeshzzz/brijeshzzz/main/864bfc9142bcd919f33f3b7800e6c1-unscreen.gif" width="100%">
 
 
 ---

@@ -10,7 +10,7 @@
 ## About Me
 
 - Full-time code wizard, part-time Linux explorer  
-- Obsessed with building cool stuff — from AI bots  to slick web apps 
+- Obsessed with building cool stuff from AI bots  to slick web apps 
 - Love hacking, learning, and sharing new tricks   
 - Big fan of clean code, automation, and coffee-fueled late-night coding sessions   
 - Always down for collabs or just geekin’ out over tech  

@@ -9,7 +9,7 @@
 # about me
 
 Trying to learn new things in the tech world every day and uploading what iam learning in 
-nothing special about me :)
+     -   Nothing special about me :)
 
 ## Let’s Connect
 
